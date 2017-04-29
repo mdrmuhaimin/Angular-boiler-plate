@@ -1,0 +1,26 @@
+{
+  "name": "angular-app-boilerplate",
+  "version": "0.0.1",
+  "description": "An Angular js boiler plate to start new project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "grunt serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdrmuhaimin/Angular-boiler-plate.git"
+  },
+  "author": "Muhammad R Muhaimin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdrmuhaimin/Angular-boiler-plate/issues"
+  },
+  "homepage": "https://github.com/mdrmuhaimin/Angular-boiler-plate#readme",
+  "dependencies": {
+    "bower": "^1.7.9",
+    "grunt": "^1.0.1",
+    "grunt-contrib-connect": "^1.0.1",
+    "grunt-include-source": "^0.7.1"
+  }
+}

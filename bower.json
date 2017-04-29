@@ -1,0 +1,26 @@
+{
+  "name": "angular-bolier-plate",
+  "description": "Angular JS boiler plate",
+  "main": "server.js",
+  "authors": [
+    "Muhammad R Muhaimin"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/mdrmuhaimin/Angular-boiler-plate",
+  "moduleType": [
+    "node"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.5",
+    "bootstrap": "^3.3.6",
+    "ng-flow": "~2"
+  }
+}
